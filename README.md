@@ -1,8 +1,7 @@
 <img src="banner.svg" alt="Varad Vaidya, PharmD. Healthcare AI and medication safety." width="100%">
 
 I'm a pharmacist who builds prediction models from hospital data, and I'm interested in
-questions where drug knowledge changes the analysis. Based in Bangalore, studying healthcare
-AI at IIHMR.
+questions where drug knowledge changes the analysis.
 
 ## Projects
 
