@@ -24,7 +24,7 @@ Do a patient's drugs help predict kidney injury in the ICU? A pre-registered stu
 
 | | |
 |---|---|
-| **TumorLens** | Tumour imaging with uncertainty estimates. In design. |
+| **[TumorLens](https://github.com/drvnv2000-lab/tumorlens)** | How fragile is an automated brain-tumour response call? [Interactive demo](https://drvnv2000-lab.github.io/tumorlens/) live on a synthetic case; real-data analysis in progress. |
 
 ## Tools I use
 
