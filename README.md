@@ -24,7 +24,6 @@ Do a patient's drugs help predict kidney injury in the ICU? A pre-registered stu
 
 | | |
 |---|---|
-| **ADMET Benchmark** | Baselines for drug absorption, metabolism and toxicity on 22 public tasks. Results in hand, repository coming. |
 | **TumorLens** | Tumour imaging with uncertainty estimates. In design. |
 
 ## Tools I use
