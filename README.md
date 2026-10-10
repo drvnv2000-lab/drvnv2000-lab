@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Varad Vaidya, PharmD. Medication safety, studied with data." width="100%">
+<img src="banner.svg" alt="Varad Vaidya, PharmD. Healthcare AI and medication safety." width="100%">
 
 I'm a pharmacist who builds prediction models from hospital data, and I'm interested in
 questions where drug knowledge changes the analysis. Based in Bangalore, studying healthcare
