@@ -1,22 +1,42 @@
-### Varad Vaidya, PharmD
+<img src="banner.svg" alt="Varad Vaidya, PharmD. Medication safety, studied with data." width="100%">
 
-I build medication-safety AI for hospitals, and I build it to survive a sceptical reviewer:
-analysis plans committed before any model is trained, patient-level validation, and every
-number on a page traced to the code that produced it.
+I'm a pharmacist who builds prediction models from hospital data, and I'm interested in
+questions where drug knowledge changes the analysis. Based in Bangalore, studying healthcare
+AI at IIHMR.
 
-**Now:** healthcare AI and data science at IIHMR Bangalore.
+## Projects
 
-| Project | What it answers | Status |
-|---|---|---|
-| [**PolySafe**](https://github.com/drvnv2000-lab/polysafe) · [live study](https://drvnv2000-lab.github.io/polysafe/) | Do a patient's drugs improve prediction of acute kidney injury in the ICU? A pre-registered study on 2,520 eICU stays from 186 hospitals | Complete |
-| ADMET Benchmark | Reproducible baselines on all 22 TDC ADMET tasks, official scaffold splits, 5 seeds | Results ready, release in preparation |
-| TumorLens | Uncertainty-aware tumour imaging | In design |
+<table>
+<tr>
+<td width="46%" valign="top">
+<a href="https://drvnv2000-lab.github.io/polysafe/"><img src="og.png" alt="PolySafe study page"></a>
+</td>
+<td valign="top">
 
-**How I work**
+### [PolySafe](https://github.com/drvnv2000-lab/polysafe)
+Do a patient's drugs help predict kidney injury in the ICU? A pre-registered study on 2,520 ICU stays from 186 US hospitals.
 
-- Pre-registered, append-only analysis plans, enforced by tests on every commit
-- Validation grouped by patient, intervals that account for repeat admissions
-- Drug exposure classified by a pharmacist, not by string matching
-- Every claim in a README tested against the results it cites
+**+0.036 AUROC** with five drugs added to a logistic model. No gain with a flexible model.
 
-[Portfolio](https://drvnv2000-lab.github.io/) · [PolySafe](https://drvnv2000-lab.github.io/polysafe/)
+[Live study](https://drvnv2000-lab.github.io/polysafe/) · [Code](https://github.com/drvnv2000-lab/polysafe)
+
+</td>
+</tr>
+</table>
+
+| | |
+|---|---|
+| **ADMET Benchmark** | Baselines for drug absorption, metabolism and toxicity on 22 public tasks. Results in hand, repository coming. |
+| **TumorLens** | Tumour imaging with uncertainty estimates. In design. |
+
+## Tools I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2ec4ae)
+![RDKit](https://img.shields.io/badge/RDKit-3e5c76)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+[Portfolio](https://drvnv2000-lab.github.io/)
