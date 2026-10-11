@@ -24,7 +24,7 @@ Do a patient's drugs help predict kidney injury in the ICU? A pre-registered stu
 
 | | |
 |---|---|
-| **[TumorLens](https://github.com/drvnv2000-lab/tumorlens)** | How fragile is an automated brain-tumour response call? [Interactive demo](https://drvnv2000-lab.github.io/tumorlens/) live on a synthetic case; real-data analysis in progress. |
+| **[TumorLens](https://github.com/drvnv2000-lab/tumorlens)** | How much does an automated brain-tumour response call depend on where the edge is drawn? On real LUMIERE follow-up MRI, a 1 mm edge shift changed 17-28% of calls. Analysis plan committed first, three independent reviews. [Story](https://drvnv2000-lab.github.io/tumorlens/) · [15 real cases](https://drvnv2000-lab.github.io/tumorlens/cases.html) · [Results](https://github.com/drvnv2000-lab/tumorlens/blob/main/docs/V1_RESULTS.md) |
 
 ## Tools I use
 
